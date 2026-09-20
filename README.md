@@ -1,7 +1,7 @@
 # Online Banking & Dashboard
 
 ## 📌 Overview
-The **Online Banking & Dashboard** project is a backend-driven banking portal designed to provide secure, scalable, and efficient digital banking services. It bridges the gap between traditional banking processes and modern technological solutions by offering RESTful APIs for account management, fund transfers, and transaction history.
+The **Online Banking & Dashboard** <br>project is a backend-driven banking portal designed to provide secure, scalable, and efficient digital banking services. It bridges the gap between traditional banking processes and modern technological solutions by offering RESTful APIs for account management, fund transfers, and transaction history.
 
 Developed as part of the MCA program (2023–2025) at **Gandhi Academy of Technology and Engineering, Berhampur (BPUT)**.
 
